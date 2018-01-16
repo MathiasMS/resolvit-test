@@ -13,7 +13,7 @@ const config = {
 ## Run
 
 ```javascript
-npm start
+npm install && npm start
 ```
 ## Test
 ```javascript
